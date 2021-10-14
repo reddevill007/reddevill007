@@ -26,8 +26,6 @@
 ---
 ## GitHub Stat
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=reddevill007" alt="reddevill007" /> </a> </p>
-<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?reddevill007=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
- </p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reddevill007&show_icons=true&locale=en" alt="reddevill007" /></p>
