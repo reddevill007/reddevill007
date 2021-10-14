@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/reddevill007/reddevill007/blob/main/banner.png)](https://reddevill007.github.io/my-portfolio/)
 
 ### Hi there, I'm Saurabh Pandey - aka [Code Inertia][website] 👋
 [![Website](https://img.shields.io/website?label=codeinertia&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://reddevill007.github.io/my-portfolio/)
