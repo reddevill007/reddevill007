@@ -3,7 +3,7 @@
 # Hi there, I'm Saurabh Pandey - aka [Code Inertia][website] 👋
 [![Website](https://img.shields.io/website?label=codeinertia&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://reddevill007.github.io/my-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-pandey-161348200)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reddevill007&label=Profile%20views&color=0e75b6&style=flat" alt="reddevill007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan308&label=Profile%20views&color=0e75b6&style=flat" alt="reddevill007" /> </p>
 
 
 ## I'm a Student, Developer, Youtuber, and Freelancer!!
