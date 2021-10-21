@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddevill007&label=Profile%20views&color=0e75b6&style=flat" alt="reddevill007" /> </p>
 
 
-## I'm a Student, Developer, Youtuber, and Freelancer!!
+# I'm a Student, Developer, Youtuber, and Freelancer!!
 
 - 🌱 I’m currently learning everything 📺
 - 👯 I’m looking to collaborate with other content creators
