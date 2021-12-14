@@ -29,6 +29,13 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reddevill007&show_icons=true&locale=en" alt="reddevill007" /></p>
+<h2 align="center">My Github Statistics 🔥</h2>   
+<p align="center">
+<a href="https://github.com/reddevill007">
+<img align="center" alt="Saurabh's Github stats"
+src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=reddevill007&show_icons=true&hide_border=true&count_private=true&bg_color=0,000000,Cf6561&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
+</a>
+  </p>
 
 <h2 align="center">My contribution Streak 🔥</h2>
 <p align="center">
