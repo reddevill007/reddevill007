@@ -9,6 +9,7 @@
 
 <p align = "center">
   <img src="https://profile-counter.glitch.me/reddevill007/count.svg" />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddevill007&label=Profile%20views&color=0e75b6&style=flat" alt="reddevill007" /> </p>
 </p>
 
 
