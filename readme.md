@@ -3,7 +3,13 @@
 # Hi there, I'm Saurabh Pandey - aka [Code Inertia][website] 👋
 [![Website](https://img.shields.io/website?label=codeinertia&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://reddevill007.github.io/my-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-pandey-161348200)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reddevill007&label=Profile%20views&color=0e75b6&style=flat" alt="reddevill007" /> </p>
+<p align="center"> 
+  <h2 align="center">Visitors count</h2>
+</p>
+
+<p align = "center">
+  <img src="https://profile-counter.glitch.me/reddevill007/count.svg" />
+</p>
 
 
 # I'm a Student, Developer, Youtuber, and Freelancer!!
@@ -27,8 +33,6 @@
 ## GitHub Stat
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=reddevill007" alt="reddevill007" /> </a> </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reddevill007&show_icons=true&locale=en" alt="reddevill007" /></p>
 <h2 align="center">My Github Statistics 🔥</h2>   
 <p align="center">
 <a href="https://github.com/reddevill007">
