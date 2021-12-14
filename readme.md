@@ -30,7 +30,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reddevill007&show_icons=true&locale=en" alt="reddevill007" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reddevill007&" alt="reddevill007" /></p>
+<h2 align="center">My contribution Streak 🔥</h2>
+<p align="center">
+  <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=reddevill007&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+ </p>
 
  </p>  
  <h2 align="center">My contribution Graph 🔥</h2>
