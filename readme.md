@@ -27,7 +27,11 @@
 ---
 
 <h2 align="center">My Github Statistics 🔥</h2>   
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=reddevill007" alt="reddevill007" /> </a> </p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?reddevill007=ryo-ma&theme=darkhub" alt="reddevill007" /> 
+  </a>
+</p>
 <p align="center">
 <a href="https://github.com/reddevill007">
 <img align="center" alt="Saurabh's Github stats"
