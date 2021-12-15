@@ -29,7 +29,7 @@
 <h2 align="center">My Github Statistics 🔥</h2>   
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?reddevill007=ryo-ma&theme=darkhub" alt="reddevill007" /> 
+    <img src="https://github-profile-trophy.vercel.app/?username=reddevill007&theme=onedark" alt="reddevill007" /> 
   </a>
 </p>
 <p align="center">
