@@ -27,17 +27,21 @@
 ---
 
 <h2 align="center">My Github Statistics 🔥</h2>   
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=reddevill007&theme=onedark" alt="reddevill007" /> 
-  </a>
-</p>
+<br>
 <p align="center">
 <a href="https://github.com/reddevill007">
 <img align="center" alt="Saurabh's Github stats"
 src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=reddevill007&show_icons=true&hide_border=true&count_private=true&bg_color=22272e&title_color=00ffff&text_color=ffffff&icon_color=ffffff"/>
 </a>
-  </p>
+   </p>
+ <br>
+  <p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=reddevill007&theme=onedark" alt="reddevill007" /> 
+  </a>
+</p>
+ <br>
+
 
 <h2 align="center">My contribution Streak 🔥</h2>
 <p align="center">
