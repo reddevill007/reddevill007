@@ -69,10 +69,10 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=reddevill007
 - [VIRTUAL ASSISTANT USING HTML, CSS, and JAVASCRIPT](https://reddevill007.github.io/Javascript-Virtual-Assitant)
 - [VIRTUAL ASSISTANT USING C++](https://github.com/reddevill007/INERTIA-A-Virtual-Assistant)
 - [VIRTUAL ASSISTANT USING PYTHON](https://youtu.be/_1A9Z8rB4Vc)
-- [Music Player Using HTML, CSS, AND JAVASCRIPT](https://reddevill007.github.io/music-player)
+- [MUSIC 🎵🎶 PLAYER USING HTML, CSS, AND JAVASCRIPT](https://reddevill007.github.io/music-player)
 - [CODE EDITOR USING HTML, CSS, and JAVASCRIPT](https://reddevill007.github.io/code-editor-html-css-ja/)
 - [EDUCATIONAL WEBSITE USING HTML, CSS, and JAVASCRIPT](https://reddevill007.github.io/we-educate)
-- [Anime Streaming Website Using HTML, CSS, AND JAVASCRIPT](https://reddevill007.github.io/Anime-Streaming-Website)
+- [ANIME STREAMING WEBSITE USING HTML, CSS, AND JAVASCRIPT](https://reddevill007.github.io/Anime-Streaming-Website)
 
 ## 📺 Latest YouTube Videos
 
