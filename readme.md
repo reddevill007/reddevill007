@@ -86,9 +86,3 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=reddevill007
 
 ---
 
-
-[website]: https://reddevill007.github.io/my-portfolio/
-[twitter]: https://twitter.com/InertiaCode
-[youtube]: https://www.youtube.com/channel/UCmpXdOaZAIXfAG4kKSdrPDA
-[instagram]: https://www.instagram.com/red._.devill
-[linkedin]: https://www.linkedin.com/in/saurabh-pandey-161348200
