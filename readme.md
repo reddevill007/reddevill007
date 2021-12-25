@@ -9,10 +9,10 @@
 
 # I'm a Student, Developer, Youtuber, and Freelancer!!
 
-- 🌱 I’m currently learning everything 📺
-- 👯 I’m looking to collaborate with other content creators
-- 📺 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love photography
+- 🌱 I’m currently learning everything 📝
+- 👯 I’m looking to collaborate with other content creators 🎥
+- 👨‍💻 2022 Goals: Contribute more to Open Source projects 👨‍💻
+- ⚡ Fun fact: I love photography 📸 and basketball 🏀
 
 ## Connect with me:
 [![Instagram](https://img.shields.io/badge/Saurabh_Pandey-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/red._.devill) 
@@ -21,7 +21,7 @@
 
 
 
-## Languages and Tools:
+## Languages and Tools ⚙️:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ---
@@ -56,7 +56,7 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=reddevill007
  </p> 
 
  </p>  
- <h2 align="center">My contribution Graph 🔥</h2>
+ <h2 align="center">My contribution Graph 📈📉</h2>
 <p align="center">
   <a href="https://github.com/reddevill007">
     <img src="https://activity-graph.herokuapp.com/graph?username=reddevill007&theme=xcode"/>
@@ -64,7 +64,7 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=reddevill007
  </p> 
 
 
-## 📺 My Projects
+## My Projects 👨‍💻
 
 - [VIRTUAL ASSISTANT USING HTML, CSS, and JAVASCRIPT](https://reddevill007.github.io/Javascript-Virtual-Assitant)
 - [VIRTUAL ASSISTANT USING C++](https://github.com/reddevill007/INERTIA-A-Virtual-Assistant)
@@ -74,7 +74,7 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=reddevill007
 - [EDUCATIONAL WEBSITE USING HTML, CSS, and JAVASCRIPT](https://reddevill007.github.io/we-educate)
 - [ANIME STREAMING WEBSITE USING HTML, CSS, AND JAVASCRIPT](https://reddevill007.github.io/Anime-Streaming-Website)
 
-## 📺 Latest YouTube Videos
+## Latest YouTube Videos 📺
 
 - [VIRTUAL ASSISTANT USING C++ || ARTIFICIAL INTELLIGENCE || CODE INERTIA](https://youtu.be/4Ln_DYiGnVA)
 - [ARTIFICIAL INTELLIGENCE PROJECT | USING PYTHON | ROCK, PAPER OR SCISSORS GAME | CODE INERTIA](https://youtu.be/BK8IQUGMrSc)
