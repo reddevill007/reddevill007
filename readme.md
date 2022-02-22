@@ -62,6 +62,9 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=reddevill007
     <img src="https://activity-graph.herokuapp.com/graph?username=reddevill007&theme=xcode"/>
   </a>
  </p> 
+ 
+ ## sanke eating contribution graph
+![snake gif](https://github.com/47-dev/47-dev/blob/output/github-contribution-grid-snake.gif)
 
 
 ## My Projects 👨‍💻
