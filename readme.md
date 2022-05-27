@@ -69,7 +69,7 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=reddevill007
 ## My Projects 👨‍💻
 
 - [VIRTUAL ASSISTANT USING HTML, CSS, and JAVASCRIPT](https://reddevill007.github.io/Javascript-Virtual-Assitant)
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reddevill007&repo=Javascript-Virtual-Assitant&theme=radical)]([https://github.com/anuraghazra/github-readme-stats](https://reddevill007.github.io/Javascript-Virtual-Assitant))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reddevill007&repo=Javascript-Virtual-Assitant&theme=radical)](https://reddevill007.github.io/Javascript-Virtual-Assitant)
 - [VIRTUAL ASSISTANT USING C++](https://github.com/reddevill007/INERTIA-A-Virtual-Assistant)
 - [VIRTUAL ASSISTANT USING PYTHON](https://youtu.be/_1A9Z8rB4Vc)
 - [MUSIC 🎵🎶 PLAYER USING HTML, CSS, AND JAVASCRIPT](https://reddevill007.github.io/music-player)
