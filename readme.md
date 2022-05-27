@@ -69,7 +69,7 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=reddevill007
 ## My Projects 👨‍💻
 
 - [COINED - Crytocurrency Educational & News Website](https://coinedd.netlify.app/) <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reddevill007&repo=Javascript-Virtual-Assitant&theme=radical)](https://github.com/reddevill007/coined)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reddevill007&repo=coined&theme=radical)](https://github.com/reddevill007/coined)
 
 - [VIRTUAL ASSISTANT USING HTML, CSS, and JAVASCRIPT](https://reddevill007.github.io/Javascript-Virtual-Assitant) <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reddevill007&repo=Javascript-Virtual-Assitant&theme=radical)](https://github.com/reddevill007/Javascript-Virtual-Assitant)
