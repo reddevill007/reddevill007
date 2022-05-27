@@ -68,14 +68,18 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=reddevill007
 
 ## My Projects 👨‍💻
 
+- [COINED - Crytocurrency Educational & News Website](https://coinedd.netlify.app/) <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reddevill007&repo=Javascript-Virtual-Assitant&theme=radical)](https://github.com/reddevill007/coined)
+
 - [VIRTUAL ASSISTANT USING HTML, CSS, and JAVASCRIPT](https://reddevill007.github.io/Javascript-Virtual-Assitant) <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reddevill007&repo=Javascript-Virtual-Assitant&theme=radical)](https://github.com/reddevill007/Javascript-Virtual-Assitant)
-- [VIRTUAL ASSISTANT USING C++](https://github.com/reddevill007/INERTIA-A-Virtual-Assistant)
-- [VIRTUAL ASSISTANT USING PYTHON](https://youtu.be/_1A9Z8rB4Vc)
-- [MUSIC 🎵🎶 PLAYER USING HTML, CSS, AND JAVASCRIPT](https://reddevill007.github.io/music-player)
-- [CODE EDITOR USING HTML, CSS, and JAVASCRIPT](https://reddevill007.github.io/code-editor-html-css-ja/)
-- [EDUCATIONAL WEBSITE USING HTML, CSS, and JAVASCRIPT](https://reddevill007.github.io/we-educate)
-- [ANIME STREAMING WEBSITE USING HTML, CSS, AND JAVASCRIPT](https://reddevill007.github.io/Anime-Streaming-Website)
+
+- [VIRTUAL ASSISTANT USING C++](https://github.com/reddevill007/virtual-assistant-cpp) <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reddevill007&repo=virtual-assistant-cpp&theme=radical)](https://github.com/reddevill007/virtual-assistant-cpp)
+
+- [VIRTUAL ASSISTANT USING PYTHON](https://github.com/reddevill007/INERTIA-A-Virtual-Assistant) <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reddevill007&repo=INERTIA-A-Virtual-Assistant&theme=radical)](https://github.com/reddevill007/INERTIA-A-Virtual-Assistant)
+
 
 ## Latest YouTube Videos 📺
 
