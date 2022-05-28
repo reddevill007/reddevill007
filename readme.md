@@ -74,6 +74,9 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=reddevill007
 - [VIRTUAL ASSISTANT USING HTML, CSS, and JAVASCRIPT](https://reddevill007.github.io/Javascript-Virtual-Assitant) <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reddevill007&repo=Javascript-Virtual-Assitant&theme=radical)](https://github.com/reddevill007/Javascript-Virtual-Assitant)
 
+- [News App - Using REACT.js](https://github.com/reddevill007/news-app-react) <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reddevill007&repo=news-app-react&theme=radical)](https://github.com/reddevill007/news-app-react)
+
 - [VIRTUAL ASSISTANT USING C++](https://github.com/reddevill007/virtual-assistant-cpp) <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reddevill007&repo=virtual-assistant-cpp&theme=radical)](https://github.com/reddevill007/virtual-assistant-cpp)
 
