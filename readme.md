@@ -9,7 +9,7 @@
 
 
 
-# I'm a Student, Developer, Youtuber, and Freelancer!!
+# I'm a Student, Developer, Youtuber, and Freelancer!
 
 - 🌱 I’m currently learning everything 📝
 - 👯 I’m looking to collaborate with other content creators 🎥
