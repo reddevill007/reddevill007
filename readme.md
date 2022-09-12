@@ -94,5 +94,5 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=reddevill007
 
 - ➡️ [more videos...](https://www.youtube.com/channel/UCmpXdOaZAIXfAG4kKSdrPDA)
 
----
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
