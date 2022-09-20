@@ -66,7 +66,7 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=reddevill007
  </p> 
 
 
-## My Projects 👨‍💻
+<h2 align="center"> My Projects 👨‍💻 </h2>
 
 - [COINED - Crytocurrency Educational & News Website](https://coinedd.netlify.app/) <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reddevill007&repo=coined&theme=radical)](https://github.com/reddevill007/coined)
