@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-pandey-161348200)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/inerta/)
 [![Codechef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/reddevill)
+[![YouTube](https://img.shields.io/badge/code_inertia-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCmpXdOaZAIXfAG4kKSdrPDA)
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddevill007&label=Profile%20views&color=0e75b6&style=flat" alt="reddevill007" /> </p>
 
 
