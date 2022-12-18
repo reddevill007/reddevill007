@@ -24,7 +24,7 @@
 
 
 
-## Languages and Tools ⚙️: 
+## Languages and Tools ⚙️
 
 ### 👨‍💻 Programming languages
 <p> 
