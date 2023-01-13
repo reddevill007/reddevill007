@@ -84,7 +84,7 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=reddevill007
   <h2 align="center">Frequently used Language 📺</h2>
 <p align="center">
   <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddevill007&theme=dark&hide_border=true&background=22272e&stroke=0000"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reddevill007&theme=dark&hide_border=true&background=22272e&stroke=0000"/>
   </a>
  </p> 
 
@@ -101,19 +101,19 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=reddevill007
 <h2 align="center"> My Projects 👨‍💻 </h2>
 
 - [COINED - Crytocurrency Educational & News Website](https://coinedd.netlify.app/) <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reddevill007&repo=coined&theme=radical)](https://github.com/reddevill007/coined)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reddevill007&repo=coined&theme=radical)](https://github.com/reddevill007/coined)
 
 - [VIRTUAL ASSISTANT USING HTML, CSS, and JAVASCRIPT](https://reddevill007.github.io/Javascript-Virtual-Assitant) <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reddevill007&repo=Javascript-Virtual-Assitant&theme=radical)](https://github.com/reddevill007/Javascript-Virtual-Assitant)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reddevill007&repo=Javascript-Virtual-Assitant&theme=radical)](https://github.com/reddevill007/Javascript-Virtual-Assitant)
 
 - [News App - Using REACT.js](https://github.com/reddevill007/news-app-react) <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reddevill007&repo=news-app-react&theme=radical)](https://github.com/reddevill007/news-app-react)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reddevill007&repo=news-app-react&theme=radical)](https://github.com/reddevill007/news-app-react)
 
 - [VIRTUAL ASSISTANT USING C++](https://github.com/reddevill007/virtual-assistant-cpp) <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reddevill007&repo=virtual-assistant-cpp&theme=radical)](https://github.com/reddevill007/virtual-assistant-cpp)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reddevill007&repo=virtual-assistant-cpp&theme=radical)](https://github.com/reddevill007/virtual-assistant-cpp)
 
 - [VIRTUAL ASSISTANT USING PYTHON](https://github.com/reddevill007/INERTIA-A-Virtual-Assistant) <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reddevill007&repo=INERTIA-A-Virtual-Assistant&theme=radical)](https://github.com/reddevill007/INERTIA-A-Virtual-Assistant)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=reddevill007&repo=INERTIA-A-Virtual-Assistant&theme=radical)](https://github.com/reddevill007/INERTIA-A-Virtual-Assistant)
 
 
 ## Latest YouTube Videos 📺
