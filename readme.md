@@ -13,7 +13,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/reddevill007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/reddevill007?tab=followers">
   <img src="https://komarev.com/ghpvc/?username=reddevill007&label=Profile%20views&color=0e75b6&style=flat" alt="reddevill007" /> </a>
-  [![wakatime](https://wakatime.com/badge/user/6272f51b-f805-4bdd-848f-e3a45d99fcf4.svg)](https://wakatime.com/@6272f51b-f805-4bdd-848f-e3a45d99fcf4)
+  <a href="https://wakatime.com/@6272f51b-f805-4bdd-848f-e3a45d99fcf4"><img src="https://wakatime.com/badge/user/6272f51b-f805-4bdd-848f-e3a45d99fcf4.svg" alt="Total time coded since Nov 20 2022" /></a>
 </p>
 
 
