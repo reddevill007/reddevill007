@@ -123,14 +123,6 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=reddevill007
  </p> 
 
  </p>  
- <h2 align="center">My contribution Graph 📈📉</h2>
-<p align="center">
-  <a href="https://github.com/reddevill007">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=reddevill007&theme=github"/>
-  </a>
-  
- </p> 
-
 
 <h2 align="center"> My Projects 👨‍💻 </h2>
 
