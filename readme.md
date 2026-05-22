@@ -1,7 +1,13 @@
 [![MasterHead](https://github.com/reddevill007/reddevill007/blob/main/banner2__1_-removebg-preview.png
 )](https://inertiaavercel.app)
 
-# Hi there, I'm Saurabh Pandey - Code Inertia!!! 👋
+<h1>Hey 👋, I'm Saurabh Pandey</h1>
+<h3>🚀 Full Stack Developer | AI Builder | Freelancer | Creator | Code Inertia</h3>
+
+<p>
+Building cool stuff at the intersection of <b>AI, Full Stack, Cloud & Product Engineering</b>
+</p>
+
 [![Website](https://img.shields.io/website?label=website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://saurabhpandey.dev/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-pandey-161348200)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/inertiaa)
@@ -17,14 +23,23 @@
   <a href="https://wakatime.com/@6272f51b-f805-4bdd-848f-e3a45d99fcf4"><img src="https://wakatime.com/badge/user/6272f51b-f805-4bdd-848f-e3a45d99fcf4.svg" alt="Total time coded since Nov 20 2022" /></a>
 </p>
 
+## 🚀 About Me
 
+```ts
+const saurabh = {
+  alias: "Code Inertia",
+  role: "Full Stack + AI Engineer",
+  currentFocus: [
+    "AI Products",
+    "Scalable SaaS",
+    "Cloud Infrastructure",
+    "Developer Tools"
+  ],
+  passions: ["Open Source", "Startups", "Building Products", "Photography 📸", "Basketball 🏀"],
+  funFact: "I probably have 27 unfinished side projects 😆"
+};
+```
 
-# I'm a Student, Developer, YouTuber, and Freelancer!!!
-
-- 🌱 I’m currently learning everything 📝
-- 👯 I’m looking to collaborate with other content creators 🎥
-- 👨‍💻 Goals: Contribute more to Open Source projects 👨‍💻
-- ⚡ Fun fact: I love photography 📸 and basketball 🏀
 
 ## Connect with me:
 [![Instagram](https://img.shields.io/badge/Saurabh_Pandey-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_inertiaa) 
